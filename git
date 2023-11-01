@@ -1,0 +1,10 @@
+touch file.txt
+git add  . 
+git status
+git remote add origin link
+git commit -m"successfully added"
+git tag v1. 0
+git log
+git show v1. 0
+git push origin v1. 0
+git tag -d v1. 0
